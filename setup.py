@@ -14,7 +14,7 @@ setup(
     install_requires=[
         "influxdb", "siphash", "python-dateutil", "redis", "orjson", "zstandard",
         "u-msgpack-python", "psycopg2-binary", "bs4", "lxml", "nltk", "numpy",
-        "matplotlib", "fake-useragent @ git+https://github.com/Jordan9675/fake-useragent",
+        "matplotlib", "fake-useragent @ git+https://github.com/maxzzze/fake-useragent",
         "requests"
     ]
 )
